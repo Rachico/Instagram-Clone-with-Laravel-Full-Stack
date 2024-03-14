@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Instagram Clone</title>
+        <title>Instashare</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Heebo:200,600" rel="stylesheet">
@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Instagram Clone
+                    Instashare
                 </div>
 
 
